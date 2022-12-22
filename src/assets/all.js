@@ -1,4 +1,4 @@
-[
+const all = [
     "The rizzler",
     "Rizzly bear",
     "The boy who cried rizz",
@@ -24,6 +24,7 @@
     "Queen Erizzabeth",
     "Walt Rizzney",
     "Artirizzal intelligence",
+    "Natural Rizzaster",
     "First Rizzponder",
     "The grand rizzard",
     "Ate the rizz rizz fruit",
@@ -33,6 +34,7 @@
     "Chuck Norizz",
     "Undergoing cellular rizzpiration",
     "rizzsion",
-    "The last rizzort",
-    "Natural Rizzaster"
+    "The last rizzort"
 ]
+
+export default all
